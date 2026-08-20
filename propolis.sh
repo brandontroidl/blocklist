@@ -1,0 +1,1 @@
+cd /var/lib/propolis/blocklist-repo && cp /var/lib/propolis/feed/aggressive.* . && cp /var/lib/propolis/feed/standard.* . && cp /var/lib/propolis/feed/manifest.json . && git add -A && git commit -m "feed" && git push origin main
