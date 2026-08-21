@@ -1,7 +1,6 @@
 create propolis_standard hash:ip family inet hashsize 4096 maxelem 1024
-add propolis_standard 8.138.154.105
 add propolis_standard 34.22.134.247
-add propolis_standard 34.62.255.59
+add propolis_standard 34.38.245.25
 add propolis_standard 35.190.195.143
 add propolis_standard 35.240.92.12
 add propolis_standard 37.54.36.122
@@ -9,14 +8,15 @@ add propolis_standard 37.73.0.140
 add propolis_standard 41.33.45.100
 add propolis_standard 45.41.105.105
 add propolis_standard 46.110.178.159
+add propolis_standard 46.187.38.215
 add propolis_standard 47.54.148.176
 add propolis_standard 47.74.51.79
 add propolis_standard 50.25.105.221
 add propolis_standard 61.184.77.2
 add propolis_standard 62.209.141.234
+add propolis_standard 64.62.197.32
 add propolis_standard 64.62.197.77
 add propolis_standard 77.90.185.21
-add propolis_standard 77.90.185.30
 add propolis_standard 79.126.9.223
 add propolis_standard 79.126.114.19
 add propolis_standard 80.71.142.218
@@ -35,6 +35,7 @@ add propolis_standard 109.124.229.7
 add propolis_standard 109.165.93.188
 add propolis_standard 109.184.237.37
 add propolis_standard 110.136.154.200
+add propolis_standard 111.74.57.220
 add propolis_standard 114.104.188.248
 add propolis_standard 120.24.228.103
 add propolis_standard 121.173.173.48
@@ -43,13 +44,11 @@ add propolis_standard 159.224.246.118
 add propolis_standard 161.129.60.83
 add propolis_standard 165.154.23.177
 add propolis_standard 167.99.169.232
-add propolis_standard 176.97.190.108
 add propolis_standard 176.98.11.89
 add propolis_standard 176.227.245.117
 add propolis_standard 178.122.72.4
 add propolis_standard 178.187.72.252
 add propolis_standard 180.166.193.6
-add propolis_standard 187.45.72.61
 add propolis_standard 187.188.230.55
 add propolis_standard 195.178.110.137
 add propolis_standard 196.77.55.84
