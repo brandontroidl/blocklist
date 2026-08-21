@@ -1,12 +1,14 @@
 create propolis_all-24h hash:ip family inet hashsize 4096 maxelem 1024
 add propolis_all-24h 34.38.245.25
 add propolis_all-24h 35.240.92.12
+add propolis_all-24h 37.20.192.53
 add propolis_all-24h 45.198.224.26
 add propolis_all-24h 46.36.123.218
 add propolis_all-24h 46.187.38.215
 add propolis_all-24h 47.54.148.176
 add propolis_all-24h 47.74.51.79
 add propolis_all-24h 62.209.141.234
+add propolis_all-24h 64.62.156.172
 add propolis_all-24h 64.62.197.32
 add propolis_all-24h 64.207.185.5
 add propolis_all-24h 79.126.9.223
@@ -50,3 +52,4 @@ add propolis_all-24h 193.8.186.29
 add propolis_all-24h 195.178.110.137
 add propolis_all-24h 196.77.55.84
 add propolis_all-24h 204.76.203.43
+add propolis_all-24h 220.132.165.124
