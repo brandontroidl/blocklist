@@ -1,9 +1,11 @@
 create propolis_aggressive hash:ip family inet hashsize 4096 maxelem 1024
+add propolis_aggressive 14.33.48.192
 add propolis_aggressive 31.11.96.30
 add propolis_aggressive 45.198.224.26
 add propolis_aggressive 58.209.189.74
 add propolis_aggressive 61.224.142.118
 add propolis_aggressive 64.207.185.5
+add propolis_aggressive 92.118.72.236
 add propolis_aggressive 101.53.225.48
 add propolis_aggressive 101.71.38.207
 add propolis_aggressive 110.38.2.173
