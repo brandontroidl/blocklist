@@ -1,10 +1,9 @@
 ip,first_seen,last_seen,categories,events,signals
 14.33.48.192,2026-08-23T06:00:00Z,2026-08-23T06:00:00Z,1,56,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-31.11.96.30,2026-08-22T20:00:00Z,2026-08-22T20:00:00Z,1,4,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 45.198.224.26,2026-08-22T03:00:00Z,2026-08-23T14:00:00Z,1,28,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
 64.207.185.5,2026-08-20T08:00:00Z,2026-08-23T06:00:00Z,1,16363,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 92.118.72.236,2026-08-23T07:00:00Z,2026-08-23T07:00:00Z,1,3,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-92.204.138.58,2026-08-23T13:00:00Z,2026-08-23T19:00:00Z,1,1085,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
+92.204.138.58,2026-08-23T13:00:00Z,2026-08-23T20:00:00Z,1,1478,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 101.71.38.207,2026-08-22T21:00:00Z,2026-08-22T21:00:00Z,1,12,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 103.82.120.2,2026-08-23T18:00:00Z,2026-08-23T18:00:00Z,1,22,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 110.78.252.134,2026-08-22T20:00:00Z,2026-08-22T21:00:00Z,1,280,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
@@ -22,5 +21,4 @@ ip,first_seen,last_seen,categories,events,signals
 203.101.186.164,2026-08-22T23:00:00Z,2026-08-22T23:00:00Z,1,264,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 209.99.190.174,2026-08-22T21:00:00Z,2026-08-22T21:00:00Z,1,5,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 217.164.155.173,2026-08-23T16:00:00Z,2026-08-23T16:00:00Z,1,42,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-222.140.180.120,2026-08-22T20:00:00Z,2026-08-22T20:00:00Z,1,88,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 223.123.73.103,2026-08-22T23:00:00Z,2026-08-22T23:00:00Z,1,66,honeypot_command_exec;honeypot_connection;honeypot_login_attempt

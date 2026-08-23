@@ -1,7 +1,6 @@
 # Propolis blocklist - reverse DNS sinkhole
 # IPv6 entries omitted (no reverse-DNS sinkhole format)
 0.0.0.0 192.48.33.14.in-addr.arpa
-0.0.0.0 30.96.11.31.in-addr.arpa
 0.0.0.0 26.224.198.45.in-addr.arpa
 0.0.0.0 5.185.207.64.in-addr.arpa
 0.0.0.0 236.72.118.92.in-addr.arpa
@@ -23,5 +22,4 @@
 0.0.0.0 164.186.101.203.in-addr.arpa
 0.0.0.0 174.190.99.209.in-addr.arpa
 0.0.0.0 173.155.164.217.in-addr.arpa
-0.0.0.0 120.180.140.222.in-addr.arpa
 0.0.0.0 103.73.123.223.in-addr.arpa
