@@ -1,7 +1,6 @@
 create propolis_standard hash:ip family inet hashsize 4096 maxelem 1024
 add propolis_standard 1.174.162.8
 add propolis_standard 1.212.225.99
-add propolis_standard 1.247.245.61
 add propolis_standard 2.56.116.164
 add propolis_standard 2.57.121.25
 add propolis_standard 2.57.121.112
@@ -33,7 +32,6 @@ add propolis_standard 31.56.186.216
 add propolis_standard 31.131.106.203
 add propolis_standard 31.173.29.136
 add propolis_standard 34.14.61.168
-add propolis_standard 34.14.74.140
 add propolis_standard 34.79.30.146
 add propolis_standard 35.130.111.146
 add propolis_standard 35.195.116.43
@@ -77,7 +75,9 @@ add propolis_standard 49.124.133.102
 add propolis_standard 49.124.149.205
 add propolis_standard 49.124.151.62
 add propolis_standard 49.124.152.180
+add propolis_standard 49.124.152.227
 add propolis_standard 49.124.153.44
+add propolis_standard 49.205.214.47
 add propolis_standard 49.206.194.29
 add propolis_standard 49.207.186.21
 add propolis_standard 50.217.40.11
@@ -147,7 +147,6 @@ add propolis_standard 78.197.6.173
 add propolis_standard 79.54.112.213
 add propolis_standard 79.111.175.76
 add propolis_standard 80.233.77.136
-add propolis_standard 81.16.126.231
 add propolis_standard 81.22.51.64
 add propolis_standard 81.26.206.7
 add propolis_standard 81.101.197.226
@@ -191,7 +190,6 @@ add propolis_standard 91.244.2.132
 add propolis_standard 92.62.74.41
 add propolis_standard 92.173.204.20
 add propolis_standard 93.48.225.80
-add propolis_standard 93.118.153.229
 add propolis_standard 93.178.112.170
 add propolis_standard 94.102.49.155
 add propolis_standard 94.141.84.1
@@ -201,7 +199,6 @@ add propolis_standard 95.27.25.201
 add propolis_standard 95.70.168.174
 add propolis_standard 95.79.108.51
 add propolis_standard 95.81.123.91
-add propolis_standard 95.97.111.202
 add propolis_standard 99.45.236.27
 add propolis_standard 99.224.131.187
 add propolis_standard 101.13.1.58
@@ -234,6 +231,7 @@ add propolis_standard 109.51.157.192
 add propolis_standard 109.177.74.107
 add propolis_standard 109.228.161.70
 add propolis_standard 109.233.21.109
+add propolis_standard 110.25.106.26
 add propolis_standard 110.25.109.54
 add propolis_standard 111.39.167.59
 add propolis_standard 111.70.11.38
@@ -403,9 +401,9 @@ add propolis_standard 183.108.66.186
 add propolis_standard 183.109.153.173
 add propolis_standard 183.223.156.154
 add propolis_standard 183.238.10.198
+add propolis_standard 184.147.28.95
 add propolis_standard 185.102.186.92
 add propolis_standard 185.103.255.38
-add propolis_standard 185.150.166.50
 add propolis_standard 185.219.41.56
 add propolis_standard 185.219.41.122
 add propolis_standard 185.219.41.132
@@ -450,6 +448,7 @@ add propolis_standard 200.222.71.218
 add propolis_standard 200.232.114.71
 add propolis_standard 201.28.176.31
 add propolis_standard 201.63.67.250
+add propolis_standard 201.63.138.70
 add propolis_standard 202.82.20.241
 add propolis_standard 203.123.219.137
 add propolis_standard 203.192.211.180
@@ -485,6 +484,7 @@ add propolis_standard 217.154.217.5
 add propolis_standard 217.165.229.75
 add propolis_standard 217.208.90.253
 add propolis_standard 217.211.237.213
+add propolis_standard 218.13.214.18
 add propolis_standard 218.21.243.58
 add propolis_standard 218.21.246.238
 add propolis_standard 218.23.95.14
