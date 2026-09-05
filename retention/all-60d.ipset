@@ -1,4 +1,4 @@
-create propolis_all-60d hash:ip family inet hashsize 4096 maxelem 1931
+create propolis_all-60d hash:ip family inet hashsize 4096 maxelem 1938
 add propolis_all-60d 1.174.162.8
 add propolis_all-60d 1.212.225.99
 add propolis_all-60d 1.233.103.18
@@ -9,6 +9,7 @@ add propolis_all-60d 2.56.116.164
 add propolis_all-60d 2.57.121.25
 add propolis_all-60d 2.57.121.112
 add propolis_all-60d 2.57.122.53
+add propolis_all-60d 2.57.122.238
 add propolis_all-60d 2.179.194.193
 add propolis_all-60d 2.180.6.8
 add propolis_all-60d 2.180.15.240
@@ -428,7 +429,6 @@ add propolis_all-60d 62.220.123.61
 add propolis_all-60d 63.42.190.239
 add propolis_all-60d 64.23.175.24
 add propolis_all-60d 64.53.7.231
-add propolis_all-60d 64.62.156.172
 add propolis_all-60d 64.62.156.202
 add propolis_all-60d 64.72.74.162
 add propolis_all-60d 64.89.163.156
@@ -906,6 +906,7 @@ add propolis_all-60d 111.74.57.220
 add propolis_all-60d 111.92.157.212
 add propolis_all-60d 111.171.125.94
 add propolis_all-60d 111.172.196.204
+add propolis_all-60d 111.193.160.143
 add propolis_all-60d 111.198.53.188
 add propolis_all-60d 111.246.151.250
 add propolis_all-60d 112.5.89.227
@@ -1025,6 +1026,7 @@ add propolis_all-60d 118.179.157.178
 add propolis_all-60d 118.183.180.108
 add propolis_all-60d 118.193.69.177
 add propolis_all-60d 118.195.139.218
+add propolis_all-60d 118.251.39.79
 add propolis_all-60d 119.116.32.136
 add propolis_all-60d 119.152.102.54
 add propolis_all-60d 119.160.166.237
@@ -1361,6 +1363,7 @@ add propolis_all-60d 176.110.102.150
 add propolis_all-60d 176.116.139.60
 add propolis_all-60d 176.118.0.152
 add propolis_all-60d 176.120.63.240
+add propolis_all-60d 176.120.100.143
 add propolis_all-60d 176.122.109.182
 add propolis_all-60d 176.124.237.6
 add propolis_all-60d 176.170.1.244
@@ -1639,6 +1642,7 @@ add propolis_all-60d 195.64.239.201
 add propolis_all-60d 195.96.231.250
 add propolis_all-60d 195.158.26.59
 add propolis_all-60d 195.178.110.137
+add propolis_all-60d 195.178.110.218
 add propolis_all-60d 195.181.104.166
 add propolis_all-60d 195.211.212.248
 add propolis_all-60d 195.218.159.123
@@ -1678,6 +1682,7 @@ add propolis_all-60d 200.59.88.29
 add propolis_all-60d 200.59.88.86
 add propolis_all-60d 200.59.88.218
 add propolis_all-60d 200.59.89.168
+add propolis_all-60d 200.59.113.18
 add propolis_all-60d 200.59.122.238
 add propolis_all-60d 200.59.127.155
 add propolis_all-60d 200.59.127.161
@@ -1805,6 +1810,7 @@ add propolis_all-60d 213.154.80.51
 add propolis_all-60d 213.176.26.134
 add propolis_all-60d 213.209.159.115
 add propolis_all-60d 213.230.65.53
+add propolis_all-60d 213.230.86.63
 add propolis_all-60d 213.230.87.14
 add propolis_all-60d 213.230.93.202
 add propolis_all-60d 216.70.97.74
@@ -1837,6 +1843,7 @@ add propolis_all-60d 218.25.233.22
 add propolis_all-60d 218.29.196.162
 add propolis_all-60d 218.29.231.106
 add propolis_all-60d 218.58.73.238
+add propolis_all-60d 218.93.190.170
 add propolis_all-60d 218.94.115.164
 add propolis_all-60d 218.146.255.221
 add propolis_all-60d 218.149.228.160
