@@ -1,7 +1,6 @@
 # Propolis blocklist - reverse DNS sinkhole
 # IPv6 entries omitted (no reverse-DNS sinkhole format)
 0.0.0.0 195.64.26.2.in-addr.arpa
-0.0.0.0 53.122.57.2.in-addr.arpa
 0.0.0.0 238.122.57.2.in-addr.arpa
 0.0.0.0 240.15.180.2.in-addr.arpa
 0.0.0.0 208.69.142.5.in-addr.arpa
@@ -28,12 +27,10 @@
 0.0.0.0 116.138.84.47.in-addr.arpa
 0.0.0.0 23.234.95.47.in-addr.arpa
 0.0.0.0 15.14.112.47.in-addr.arpa
-0.0.0.0 40.151.124.49.in-addr.arpa
 0.0.0.0 213.204.188.50.in-addr.arpa
 0.0.0.0 207.244.81.51.in-addr.arpa
 0.0.0.0 70.210.245.58.in-addr.arpa
 0.0.0.0 61.8.120.59.in-addr.arpa
-0.0.0.0 174.8.166.60.in-addr.arpa
 0.0.0.0 94.252.249.60.in-addr.arpa
 0.0.0.0 62.220.77.61.in-addr.arpa
 0.0.0.0 210.128.184.61.in-addr.arpa
@@ -67,7 +64,6 @@
 0.0.0.0 220.25.234.91.in-addr.arpa
 0.0.0.0 189.214.242.91.in-addr.arpa
 0.0.0.0 214.15.244.91.in-addr.arpa
-0.0.0.0 38.45.245.91.in-addr.arpa
 0.0.0.0 194.227.42.93.in-addr.arpa
 0.0.0.0 80.225.48.93.in-addr.arpa
 0.0.0.0 208.204.190.93.in-addr.arpa
@@ -81,7 +77,6 @@
 0.0.0.0 90.34.90.102.in-addr.arpa
 0.0.0.0 187.71.130.102.in-addr.arpa
 0.0.0.0 71.148.66.103.in-addr.arpa
-0.0.0.0 29.121.82.103.in-addr.arpa
 0.0.0.0 34.122.82.103.in-addr.arpa
 0.0.0.0 221.233.154.103.in-addr.arpa
 0.0.0.0 150.72.252.103.in-addr.arpa
@@ -170,7 +165,6 @@
 0.0.0.0 189.107.215.186.in-addr.arpa
 0.0.0.0 89.169.220.188.in-addr.arpa
 0.0.0.0 255.237.203.189.in-addr.arpa
-0.0.0.0 78.255.114.190.in-addr.arpa
 0.0.0.0 84.253.196.190.in-addr.arpa
 0.0.0.0 33.73.210.191.in-addr.arpa
 0.0.0.0 14.145.241.192.in-addr.arpa
