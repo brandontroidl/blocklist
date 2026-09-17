@@ -1,6 +1,5 @@
 create propolis_all-24h hash:ip family inet hashsize 4096 maxelem 1024
 add propolis_all-24h 2.57.122.238
-add propolis_all-24h 2.158.200.80
 add propolis_all-24h 12.17.116.74
 add propolis_all-24h 16.5.0.236
 add propolis_all-24h 23.30.239.246
@@ -24,6 +23,9 @@ add propolis_all-24h 88.163.133.5
 add propolis_all-24h 91.102.178.141
 add propolis_all-24h 92.204.128.6
 add propolis_all-24h 93.42.227.194
+add propolis_all-24h 93.123.109.69
+add propolis_all-24h 93.123.109.72
+add propolis_all-24h 93.123.109.74
 add propolis_all-24h 93.175.33.71
 add propolis_all-24h 94.154.43.69
 add propolis_all-24h 94.183.174.95
@@ -40,7 +42,6 @@ add propolis_all-24h 109.198.214.137
 add propolis_all-24h 109.227.115.40
 add propolis_all-24h 110.138.117.105
 add propolis_all-24h 112.158.179.84
-add propolis_all-24h 115.56.154.197
 add propolis_all-24h 115.127.71.19
 add propolis_all-24h 116.127.131.229
 add propolis_all-24h 117.16.196.132
@@ -57,7 +58,6 @@ add propolis_all-24h 142.93.60.244
 add propolis_all-24h 147.182.191.157
 add propolis_all-24h 153.117.13.2
 add propolis_all-24h 153.117.33.111
-add propolis_all-24h 153.129.107.50
 add propolis_all-24h 154.40.33.241
 add propolis_all-24h 159.89.117.122
 add propolis_all-24h 160.119.66.206
@@ -74,20 +74,17 @@ add propolis_all-24h 186.116.1.219
 add propolis_all-24h 186.210.178.223
 add propolis_all-24h 188.220.169.89
 add propolis_all-24h 190.17.162.116
-add propolis_all-24h 190.52.38.10
 add propolis_all-24h 190.114.255.78
 add propolis_all-24h 190.196.253.113
 add propolis_all-24h 192.3.233.220
 add propolis_all-24h 193.203.50.62
 add propolis_all-24h 195.251.223.205
-add propolis_all-24h 196.221.205.156
 add propolis_all-24h 196.251.121.140
 add propolis_all-24h 197.44.53.76
 add propolis_all-24h 200.31.12.187
 add propolis_all-24h 200.69.60.165
 add propolis_all-24h 206.189.65.113
 add propolis_all-24h 217.154.217.5
-add propolis_all-24h 220.80.223.144
 add propolis_all-24h 220.132.197.77
 add propolis_all-24h 222.127.62.118
 add propolis_all-24h 223.123.73.80
