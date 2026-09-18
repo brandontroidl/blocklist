@@ -37,7 +37,6 @@ ip,first_seen,last_seen,categories,events,signals
 27.222.87.239,2026-09-18T13:00:00Z,2026-09-18T13:00:00Z,1,425,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 27.223.84.195,2026-09-14T23:00:00Z,2026-09-14T23:00:00Z,1,18,honeypot_connection;honeypot_login_attempt
 27.226.27.26,2026-09-18T00:00:00Z,2026-09-18T00:00:00Z,1,36,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
-31.41.91.215,2026-09-11T22:00:00Z,2026-09-11T22:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 31.129.235.7,2026-09-13T21:00:00Z,2026-09-13T21:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 31.134.107.229,2026-09-16T03:00:00Z,2026-09-16T03:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 31.135.39.227,2026-09-13T14:00:00Z,2026-09-13T14:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
@@ -45,7 +44,6 @@ ip,first_seen,last_seen,categories,events,signals
 34.14.75.58,2026-09-13T03:00:00Z,2026-09-13T06:00:00Z,1,8,honeypot_connection;honeypot_login_attempt
 34.26.19.30,2026-09-14T11:00:00Z,2026-09-14T11:00:00Z,1,1351,honeypot_command_exec;honeypot_connection
 34.34.177.236,2026-09-18T06:00:00Z,2026-09-18T14:00:00Z,1,10,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-34.38.78.4,2026-09-09T07:00:00Z,2026-09-11T22:00:00Z,1,7,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 34.52.137.162,2026-09-18T04:00:00Z,2026-09-18T04:00:00Z,1,4,honeypot_connection;honeypot_login_attempt
 34.52.214.83,2026-09-17T02:00:00Z,2026-09-17T02:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 34.62.14.215,2026-09-15T02:00:00Z,2026-09-15T02:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
@@ -84,7 +82,7 @@ ip,first_seen,last_seen,categories,events,signals
 45.33.54.161,2026-09-13T01:00:00Z,2026-09-13T01:00:00Z,1,18,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 45.91.64.7,2026-08-20T14:00:00Z,2026-09-17T01:00:00Z,1,35,honeypot_connection;honeypot_login_attempt
 45.142.89.119,2026-09-09T08:00:00Z,2026-09-15T04:00:00Z,1,4,honeypot_connection;honeypot_login_attempt
-45.148.10.33,2026-09-17T12:00:00Z,2026-09-18T13:00:00Z,1,226800,honeypot_connection
+45.148.10.33,2026-09-17T12:00:00Z,2026-09-18T13:00:00Z,1,234314,honeypot_connection
 45.148.10.183,2026-08-28T15:00:00Z,2026-09-18T05:00:00Z,1,1089,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 45.153.34.117,2026-09-14T20:00:00Z,2026-09-14T20:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 45.154.214.252,2026-09-01T14:00:00Z,2026-09-18T17:00:00Z,1,490,honeypot_connection;honeypot_login_attempt
@@ -187,7 +185,6 @@ ip,first_seen,last_seen,categories,events,signals
 81.162.244.218,2026-09-15T19:00:00Z,2026-09-15T19:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 81.250.2.120,2026-09-17T18:00:00Z,2026-09-17T18:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 82.86.122.128,2026-09-14T18:00:00Z,2026-09-14T18:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
-82.146.46.193,2026-09-11T22:00:00Z,2026-09-11T22:00:00Z,1,4,honeypot_connection;honeypot_login_attempt
 82.208.21.79,2026-08-30T09:00:00Z,2026-09-12T02:00:00Z,1,36114,honeypot_connection;honeypot_login_attempt
 83.191.179.185,2026-09-06T08:00:00Z,2026-09-13T09:00:00Z,1,6,honeypot_connection;honeypot_login_attempt
 83.229.15.139,2026-09-12T23:00:00Z,2026-09-14T01:00:00Z,1,1708,honeypot_connection
@@ -297,7 +294,6 @@ ip,first_seen,last_seen,categories,events,signals
 103.93.37.178,2026-09-13T05:00:00Z,2026-09-13T05:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 103.131.85.157,2026-09-18T15:00:00Z,2026-09-18T15:00:00Z,1,7,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 103.154.233.221,2026-09-03T06:00:00Z,2026-09-18T18:00:00Z,1,4163,honeypot_connection
-103.159.51.70,2026-09-11T22:00:00Z,2026-09-11T22:00:00Z,1,19,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
 103.181.160.173,2026-09-16T17:00:00Z,2026-09-16T18:00:00Z,1,425,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 103.192.67.33,2026-09-18T07:00:00Z,2026-09-18T07:00:00Z,1,17,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 103.198.154.239,2026-09-14T14:00:00Z,2026-09-14T14:00:00Z,1,16,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
@@ -315,7 +311,6 @@ ip,first_seen,last_seen,categories,events,signals
 108.165.179.155,2026-09-01T13:00:00Z,2026-09-18T07:00:00Z,1,2116,honeypot_connection;honeypot_login_attempt
 108.165.179.194,2026-09-01T13:00:00Z,2026-09-18T12:00:00Z,1,2292,honeypot_connection;honeypot_login_attempt
 108.165.230.221,2026-09-01T13:00:00Z,2026-09-18T12:00:00Z,1,591,honeypot_connection;honeypot_login_attempt
-109.51.157.192,2026-08-25T23:00:00Z,2026-09-11T21:00:00Z,1,92,honeypot_connection;honeypot_login_attempt
 109.86.166.97,2026-09-09T20:00:00Z,2026-09-18T00:00:00Z,1,4,honeypot_connection;honeypot_login_attempt
 109.162.207.207,2026-09-17T03:00:00Z,2026-09-17T03:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 109.195.98.241,2026-09-17T01:00:00Z,2026-09-17T01:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
@@ -449,7 +444,6 @@ ip,first_seen,last_seen,categories,events,signals
 153.117.69.96,2026-09-13T09:00:00Z,2026-09-13T09:00:00Z,1,272,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 153.129.107.50,2026-09-16T17:00:00Z,2026-09-16T17:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 153.202.178.172,2026-09-18T07:00:00Z,2026-09-18T07:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
-153.217.79.243,2026-09-11T21:00:00Z,2026-09-11T21:00:00Z,1,9,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 154.40.33.241,2026-09-01T13:00:00Z,2026-09-18T16:00:00Z,1,2997,honeypot_connection;honeypot_login_attempt
 154.223.128.70,2026-09-13T13:00:00Z,2026-09-13T13:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 156.214.16.3,2026-09-14T03:00:00Z,2026-09-14T03:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
@@ -666,7 +660,6 @@ ip,first_seen,last_seen,categories,events,signals
 210.153.228.81,2026-09-17T13:00:00Z,2026-09-17T13:00:00Z,1,40,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 210.206.6.202,2026-09-18T00:00:00Z,2026-09-18T00:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 210.211.119.26,2026-09-17T22:00:00Z,2026-09-17T22:00:00Z,1,38,honeypot_connection;honeypot_login_attempt
-211.53.113.225,2026-09-11T22:00:00Z,2026-09-11T22:00:00Z,1,24,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 211.75.94.175,2026-08-26T03:00:00Z,2026-09-14T09:00:00Z,1,24,honeypot_connection;honeypot_login_attempt
 211.229.150.91,2026-09-18T13:00:00Z,2026-09-18T13:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 211.250.254.176,2026-09-13T06:00:00Z,2026-09-13T06:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
