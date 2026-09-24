@@ -1,4 +1,4 @@
-create propolis_all-30d hash:ip family inet hashsize 4096 maxelem 3512
+create propolis_all-30d hash:ip family inet hashsize 4096 maxelem 3511
 add propolis_all-30d 1.15.14.29
 add propolis_all-30d 1.62.87.45
 add propolis_all-30d 1.71.143.145
@@ -802,7 +802,6 @@ add propolis_all-30d 63.250.36.183
 add propolis_all-30d 64.23.175.24
 add propolis_all-30d 64.42.180.114
 add propolis_all-30d 64.53.7.231
-add propolis_all-30d 64.62.156.24
 add propolis_all-30d 64.62.156.66
 add propolis_all-30d 64.62.156.182
 add propolis_all-30d 64.62.156.202
