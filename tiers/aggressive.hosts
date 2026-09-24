@@ -1,9 +1,9 @@
 # Propolis blocklist - reverse DNS sinkhole
 # IPv6 entries omitted (no reverse-DNS sinkhole format)
+0.0.0.0 238.122.57.2.in-addr.arpa
 0.0.0.0 32.3.17.5.in-addr.arpa
 0.0.0.0 86.55.23.5.in-addr.arpa
 0.0.0.0 19.69.223.5.in-addr.arpa
-0.0.0.0 181.93.46.8.in-addr.arpa
 0.0.0.0 223.202.53.14.in-addr.arpa
 0.0.0.0 120.221.63.14.in-addr.arpa
 0.0.0.0 20.0.206.14.in-addr.arpa
@@ -19,7 +19,6 @@
 0.0.0.0 241.170.140.36.in-addr.arpa
 0.0.0.0 180.83.29.37.in-addr.arpa
 0.0.0.0 115.138.34.37.in-addr.arpa
-0.0.0.0 148.38.59.37.in-addr.arpa
 0.0.0.0 95.151.187.37.in-addr.arpa
 0.0.0.0 165.75.252.37.in-addr.arpa
 0.0.0.0 84.210.49.38.in-addr.arpa
@@ -110,13 +109,12 @@
 0.0.0.0 43.137.154.103.in-addr.arpa
 0.0.0.0 151.179.154.103.in-addr.arpa
 0.0.0.0 154.179.154.103.in-addr.arpa
-0.0.0.0 102.168.159.103.in-addr.arpa
 0.0.0.0 62.157.170.103.in-addr.arpa
 0.0.0.0 243.89.178.103.in-addr.arpa
 0.0.0.0 148.21.186.103.in-addr.arpa
 0.0.0.0 190.5.189.103.in-addr.arpa
+0.0.0.0 245.199.192.103.in-addr.arpa
 0.0.0.0 54.71.205.103.in-addr.arpa
-0.0.0.0 68.1.207.103.in-addr.arpa
 0.0.0.0 58.223.215.103.in-addr.arpa
 0.0.0.0 76.31.174.105.in-addr.arpa
 0.0.0.0 198.129.106.109.in-addr.arpa
@@ -133,22 +131,18 @@
 0.0.0.0 45.81.247.117.in-addr.arpa
 0.0.0.0 69.33.95.118.in-addr.arpa
 0.0.0.0 208.165.139.118.in-addr.arpa
-0.0.0.0 80.219.243.120.in-addr.arpa
 0.0.0.0 114.29.137.121.in-addr.arpa
 0.0.0.0 183.134.163.121.in-addr.arpa
 0.0.0.0 70.14.255.122.in-addr.arpa
 0.0.0.0 110.30.25.123.in-addr.arpa
 0.0.0.0 166.112.143.125.in-addr.arpa
 0.0.0.0 132.190.228.125.in-addr.arpa
-0.0.0.0 63.103.69.126.in-addr.arpa
 0.0.0.0 212.117.199.128.in-addr.arpa
 0.0.0.0 236.77.193.130.in-addr.arpa
 0.0.0.0 52.24.100.131.in-addr.arpa
-0.0.0.0 211.126.122.134.in-addr.arpa
 0.0.0.0 20.210.199.134.in-addr.arpa
 0.0.0.0 180.162.74.137.in-addr.arpa
 0.0.0.0 100.233.74.137.in-addr.arpa
-0.0.0.0 7.159.126.144.in-addr.arpa
 0.0.0.0 35.173.139.147.in-addr.arpa
 0.0.0.0 12.228.182.147.in-addr.arpa
 0.0.0.0 242.0.135.148.in-addr.arpa
@@ -169,8 +163,6 @@
 0.0.0.0 36.63.35.161.in-addr.arpa
 0.0.0.0 172.84.97.161.in-addr.arpa
 0.0.0.0 145.29.239.162.in-addr.arpa
-0.0.0.0 89.105.68.164.in-addr.arpa
-0.0.0.0 57.55.132.164.in-addr.arpa
 0.0.0.0 220.1.160.164.in-addr.arpa
 0.0.0.0 9.138.71.167.in-addr.arpa
 0.0.0.0 241.96.114.167.in-addr.arpa
@@ -198,7 +190,6 @@
 0.0.0.0 13.46.75.178.in-addr.arpa
 0.0.0.0 66.75.128.178.in-addr.arpa
 0.0.0.0 166.142.251.178.in-addr.arpa
-0.0.0.0 172.81.48.181.in-addr.arpa
 0.0.0.0 140.181.115.181.in-addr.arpa
 0.0.0.0 170.24.193.181.in-addr.arpa
 0.0.0.0 37.24.196.181.in-addr.arpa
@@ -256,16 +247,13 @@
 0.0.0.0 186.103.175.203.in-addr.arpa
 0.0.0.0 5.23.81.206.in-addr.arpa
 0.0.0.0 137.105.148.207.in-addr.arpa
-0.0.0.0 163.59.1.210.in-addr.arpa
 0.0.0.0 195.19.114.210.in-addr.arpa
 0.0.0.0 98.104.174.210.in-addr.arpa
 0.0.0.0 140.30.245.210.in-addr.arpa
 0.0.0.0 247.111.62.211.in-addr.arpa
 0.0.0.0 30.8.19.212.in-addr.arpa
-0.0.0.0 40.52.14.213.in-addr.arpa
 0.0.0.0 170.68.205.213.in-addr.arpa
 0.0.0.0 135.103.60.217.in-addr.arpa
 0.0.0.0 31.211.107.218.in-addr.arpa
 0.0.0.0 73.84.189.218.in-addr.arpa
 0.0.0.0 50.152.69.223.in-addr.arpa
-0.0.0.0 58.71.123.223.in-addr.arpa
