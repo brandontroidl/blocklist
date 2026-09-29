@@ -1,10 +1,11 @@
 ; Propolis RPZ - all-7d tier
-; Generated: 2026-09-29T00:00:00Z
+; Generated: 2026-09-29T01:00:00Z
 ; IPv6 entries omitted
 $TTL 300
 43.232.27.1.rpz-ip CNAME .
 45.87.62.1.rpz-ip CNAME .
 145.143.71.1.rpz-ip CNAME .
+22.46.171.1.rpz-ip CNAME .
 131.10.26.2.rpz-ip CNAME .
 100.4.29.2.rpz-ip CNAME .
 25.121.57.2.rpz-ip CNAME .
@@ -84,7 +85,6 @@ $TTL 300
 233.206.94.23.rpz-ip CNAME .
 105.35.95.23.rpz-ip CNAME .
 60.84.141.23.rpz-ip CNAME .
-11.203.227.23.rpz-ip CNAME .
 250.214.254.23.rpz-ip CNAME .
 227.232.254.23.rpz-ip CNAME .
 229.91.199.24.rpz-ip CNAME .
@@ -247,7 +247,6 @@ $TTL 300
 45.100.102.47.rpz-ip CNAME .
 194.157.103.47.rpz-ip CNAME .
 15.14.112.47.rpz-ip CNAME .
-181.172.116.47.rpz-ip CNAME .
 153.221.250.47.rpz-ip CNAME .
 153.169.64.49.rpz-ip CNAME .
 10.174.174.49.rpz-ip CNAME .
@@ -371,6 +370,7 @@ $TTL 300
 177.55.69.80.rpz-ip CNAME .
 150.185.69.80.rpz-ip CNAME .
 223.38.77.80.rpz-ip CNAME .
+202.77.82.80.rpz-ip CNAME .
 107.223.91.80.rpz-ip CNAME .
 116.95.94.80.rpz-ip CNAME .
 118.95.94.80.rpz-ip CNAME .
@@ -479,6 +479,7 @@ $TTL 300
 14.227.130.95.rpz-ip CNAME .
 195.227.130.95.rpz-ip CNAME .
 169.92.142.95.rpz-ip CNAME .
+101.91.188.95.rpz-ip CNAME .
 165.156.188.95.rpz-ip CNAME .
 144.40.189.95.rpz-ip CNAME .
 159.212.217.95.rpz-ip CNAME .
@@ -940,6 +941,7 @@ $TTL 300
 255.70.125.178.rpz-ip CNAME .
 66.75.128.178.rpz-ip CNAME .
 75.183.185.178.rpz-ip CNAME .
+154.221.187.178.rpz-ip CNAME .
 166.142.251.178.rpz-ip CNAME .
 12.53.8.179.rpz-ip CNAME .
 71.75.60.179.rpz-ip CNAME .
@@ -996,7 +998,6 @@ $TTL 300
 223.17.213.185.rpz-ip CNAME .
 126.172.213.185.rpz-ip CNAME .
 122.41.219.185.rpz-ip CNAME .
-196.41.219.185.rpz-ip CNAME .
 236.41.219.185.rpz-ip CNAME .
 130.21.250.185.rpz-ip CNAME .
 167.213.3.186.rpz-ip CNAME .
@@ -1058,13 +1059,11 @@ $TTL 300
 32.13.3.192.rpz-ip CNAME .
 179.248.3.192.rpz-ip CNAME .
 215.248.3.192.rpz-ip CNAME .
-108.253.3.192.rpz-ip CNAME .
 52.101.119.192.rpz-ip CNAME .
 111.133.129.192.rpz-ip CNAME .
 145.224.129.192.rpz-ip CNAME .
 40.226.129.192.rpz-ip CNAME .
 19.243.129.192.rpz-ip CNAME .
-220.90.155.192.rpz-ip CNAME .
 48.209.227.192.rpz-ip CNAME .
 214.162.32.193.rpz-ip CNAME .
 52.189.33.193.rpz-ip CNAME .
@@ -1157,6 +1156,7 @@ $TTL 300
 59.56.185.203.rpz-ip CNAME .
 118.146.222.203.rpz-ip CNAME .
 13.109.236.203.rpz-ip CNAME .
+28.121.44.204.rpz-ip CNAME .
 121.50.93.204.rpz-ip CNAME .
 5.23.81.206.rpz-ip CNAME .
 113.65.189.206.rpz-ip CNAME .
