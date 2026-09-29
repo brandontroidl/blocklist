@@ -1,4 +1,4 @@
-create propolis_all-7d hash:ip family inet hashsize 4096 maxelem 1233
+create propolis_all-7d hash:ip family inet hashsize 4096 maxelem 1229
 add propolis_all-7d 1.27.232.43
 add propolis_all-7d 1.62.87.45
 add propolis_all-7d 1.71.143.145
@@ -276,7 +276,6 @@ add propolis_all-7d 59.17.61.250
 add propolis_all-7d 59.29.125.122
 add propolis_all-7d 59.96.193.71
 add propolis_all-7d 59.103.119.35
-add propolis_all-7d 59.103.217.37
 add propolis_all-7d 59.103.218.57
 add propolis_all-7d 59.126.219.202
 add propolis_all-7d 59.126.236.18
@@ -334,7 +333,6 @@ add propolis_all-7d 72.255.26.187
 add propolis_all-7d 72.255.32.122
 add propolis_all-7d 72.255.52.150
 add propolis_all-7d 74.208.19.244
-add propolis_all-7d 76.88.44.79
 add propolis_all-7d 77.52.17.57
 add propolis_all-7d 77.81.21.130
 add propolis_all-7d 77.83.39.10
@@ -573,7 +571,6 @@ add propolis_all-7d 103.214.219.39
 add propolis_all-7d 103.215.223.58
 add propolis_all-7d 103.229.73.219
 add propolis_all-7d 103.236.80.222
-add propolis_all-7d 103.240.206.116
 add propolis_all-7d 103.250.164.110
 add propolis_all-7d 103.251.247.198
 add propolis_all-7d 104.156.151.26
@@ -971,7 +968,6 @@ add propolis_all-7d 182.93.50.90
 add propolis_all-7d 182.117.68.233
 add propolis_all-7d 182.253.221.13
 add propolis_all-7d 182.253.236.158
-add propolis_all-7d 183.56.251.130
 add propolis_all-7d 183.77.176.215
 add propolis_all-7d 183.104.212.232
 add propolis_all-7d 183.179.44.89
@@ -1038,7 +1034,6 @@ add propolis_all-7d 189.29.87.175
 add propolis_all-7d 189.89.2.72
 add propolis_all-7d 189.90.38.164
 add propolis_all-7d 189.125.111.177
-add propolis_all-7d 189.127.165.75
 add propolis_all-7d 190.2.22.129
 add propolis_all-7d 190.60.51.211
 add propolis_all-7d 190.86.199.171
@@ -1134,6 +1129,7 @@ add propolis_all-7d 201.79.41.56
 add propolis_all-7d 201.124.247.246
 add propolis_all-7d 201.252.232.248
 add propolis_all-7d 202.59.9.152
+add propolis_all-7d 202.59.9.161
 add propolis_all-7d 202.59.10.225
 add propolis_all-7d 202.62.53.2
 add propolis_all-7d 202.63.117.90
