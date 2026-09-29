@@ -1,5 +1,5 @@
 ; Propolis RPZ - standard tier
-; Generated: 2026-09-29T12:00:00Z
+; Generated: 2026-09-29T13:00:00Z
 ; IPv6 entries omitted
 $TTL 300
 131.10.26.2.rpz-ip CNAME .
@@ -14,6 +14,7 @@ $TTL 300
 235.73.94.23.rpz-ip CNAME .
 108.122.94.23.rpz-ip CNAME .
 169.122.94.23.rpz-ip CNAME .
+169.183.94.23.rpz-ip CNAME .
 11.203.227.23.rpz-ip CNAME .
 250.214.254.23.rpz-ip CNAME .
 227.232.254.23.rpz-ip CNAME .
@@ -65,6 +66,7 @@ $TTL 300
 107.223.91.80.rpz-ip CNAME .
 118.95.94.80.rpz-ip CNAME .
 115.201.27.82.rpz-ip CNAME .
+147.132.29.82.rpz-ip CNAME .
 97.216.15.84.rpz-ip CNAME .
 133.224.10.85.rpz-ip CNAME .
 134.224.10.85.rpz-ip CNAME .
@@ -79,13 +81,11 @@ $TTL 300
 80.225.48.93.rpz-ip CNAME .
 118.161.77.94.rpz-ip CNAME .
 44.13.243.94.rpz-ip CNAME .
-221.86.105.95.rpz-ip CNAME .
 165.156.188.95.rpz-ip CNAME .
 51.96.20.103.rpz-ip CNAME .
 88.188.75.103.rpz-ip CNAME .
 90.188.75.103.rpz-ip CNAME .
 77.191.75.103.rpz-ip CNAME .
-127.96.85.103.rpz-ip CNAME .
 14.67.91.103.rpz-ip CNAME .
 125.67.91.103.rpz-ip CNAME .
 193.87.110.103.rpz-ip CNAME .
@@ -98,6 +98,7 @@ $TTL 300
 246.90.169.103.rpz-ip CNAME .
 54.91.169.103.rpz-ip CNAME .
 168.238.172.103.rpz-ip CNAME .
+177.103.174.103.rpz-ip CNAME .
 178.26.187.103.rpz-ip CNAME .
 160.237.195.103.rpz-ip CNAME .
 26.151.156.104.rpz-ip CNAME .
@@ -110,6 +111,7 @@ $TTL 300
 155.179.165.108.rpz-ip CNAME .
 194.179.165.108.rpz-ip CNAME .
 221.230.165.108.rpz-ip CNAME .
+194.60.181.108.rpz-ip CNAME .
 87.243.168.109.rpz-ip CNAME .
 194.47.4.110.rpz-ip CNAME .
 105.117.138.110.rpz-ip CNAME .
@@ -120,6 +122,7 @@ $TTL 300
 19.71.127.115.rpz-ip CNAME .
 229.131.127.116.rpz-ip CNAME .
 231.39.26.118.rpz-ip CNAME .
+110.245.66.121.rpz-ip CNAME .
 240.23.160.121.rpz-ip CNAME .
 40.9.160.122.rpz-ip CNAME .
 243.165.143.123.rpz-ip CNAME .
@@ -174,7 +177,6 @@ $TTL 300
 102.48.214.181.rpz-ip CNAME .
 78.221.214.181.rpz-ip CNAME .
 72.193.45.185.rpz-ip CNAME .
-8.133.118.185.rpz-ip CNAME .
 176.81.121.185.rpz-ip CNAME .
 56.181.126.185.rpz-ip CNAME .
 74.181.126.185.rpz-ip CNAME .
