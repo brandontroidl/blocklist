@@ -1,5 +1,4 @@
 create propolis_all-24h hash:ip family inet hashsize 4096 maxelem 1024
-add propolis_all-24h 2.26.10.131
 add propolis_all-24h 2.57.121.25
 add propolis_all-24h 2.57.121.112
 add propolis_all-24h 2.57.122.53
@@ -43,7 +42,6 @@ add propolis_all-24h 23.94.122.169
 add propolis_all-24h 23.94.183.169
 add propolis_all-24h 23.95.35.105
 add propolis_all-24h 23.227.203.11
-add propolis_all-24h 23.254.214.250
 add propolis_all-24h 23.254.232.227
 add propolis_all-24h 27.96.92.231
 add propolis_all-24h 27.223.84.195
@@ -54,7 +52,6 @@ add propolis_all-24h 34.79.6.222
 add propolis_all-24h 34.79.87.131
 add propolis_all-24h 34.140.134.245
 add propolis_all-24h 35.187.231.181
-add propolis_all-24h 35.225.53.3
 add propolis_all-24h 36.40.64.74
 add propolis_all-24h 36.129.15.111
 add propolis_all-24h 36.227.165.246
@@ -89,7 +86,6 @@ add propolis_all-24h 50.62.135.24
 add propolis_all-24h 54.36.246.197
 add propolis_all-24h 58.186.20.101
 add propolis_all-24h 59.11.144.181
-add propolis_all-24h 59.29.125.69
 add propolis_all-24h 59.152.125.155
 add propolis_all-24h 61.221.207.130
 add propolis_all-24h 62.197.150.70
@@ -123,7 +119,6 @@ add propolis_all-24h 85.165.104.58
 add propolis_all-24h 86.107.77.145
 add propolis_all-24h 88.119.170.179
 add propolis_all-24h 88.151.33.168
-add propolis_all-24h 90.188.245.53
 add propolis_all-24h 91.92.40.236
 add propolis_all-24h 91.223.223.98
 add propolis_all-24h 91.239.233.228
@@ -131,7 +126,6 @@ add propolis_all-24h 92.62.120.116
 add propolis_all-24h 92.205.109.198
 add propolis_all-24h 92.221.163.235
 add propolis_all-24h 93.48.225.80
-add propolis_all-24h 93.183.214.86
 add propolis_all-24h 94.43.11.19
 add propolis_all-24h 94.154.43.57
 add propolis_all-24h 94.154.43.69
@@ -141,7 +135,6 @@ add propolis_all-24h 94.243.12.104
 add propolis_all-24h 101.35.210.162
 add propolis_all-24h 101.43.35.235
 add propolis_all-24h 101.43.118.136
-add propolis_all-24h 101.133.231.65
 add propolis_all-24h 102.88.137.80
 add propolis_all-24h 103.20.96.51
 add propolis_all-24h 103.75.188.88
@@ -178,7 +171,6 @@ add propolis_all-24h 104.168.92.231
 add propolis_all-24h 104.168.120.14
 add propolis_all-24h 104.248.211.171
 add propolis_all-24h 106.14.14.65
-add propolis_all-24h 106.14.123.114
 add propolis_all-24h 106.14.238.41
 add propolis_all-24h 106.51.31.123
 add propolis_all-24h 106.122.206.71
@@ -200,7 +192,6 @@ add propolis_all-24h 112.46.214.239
 add propolis_all-24h 112.158.179.84
 add propolis_all-24h 114.104.188.248
 add propolis_all-24h 114.220.176.69
-add propolis_all-24h 115.127.71.19
 add propolis_all-24h 115.127.120.42
 add propolis_all-24h 115.190.213.206
 add propolis_all-24h 115.190.228.29
@@ -212,15 +203,12 @@ add propolis_all-24h 117.71.99.116
 add propolis_all-24h 117.72.66.216
 add propolis_all-24h 117.189.39.124
 add propolis_all-24h 119.45.42.34
-add propolis_all-24h 119.96.159.237
 add propolis_all-24h 119.181.57.49
 add propolis_all-24h 119.198.206.87
-add propolis_all-24h 121.40.217.100
 add propolis_all-24h 121.130.11.124
 add propolis_all-24h 121.154.4.89
 add propolis_all-24h 121.160.23.240
 add propolis_all-24h 121.173.173.48
-add propolis_all-24h 121.196.193.173
 add propolis_all-24h 122.51.47.10
 add propolis_all-24h 122.51.248.133
 add propolis_all-24h 122.155.132.40
@@ -229,6 +217,7 @@ add propolis_all-24h 123.139.198.197
 add propolis_all-24h 123.143.165.243
 add propolis_all-24h 123.253.32.214
 add propolis_all-24h 123.253.35.72
+add propolis_all-24h 124.194.78.4
 add propolis_all-24h 124.199.118.52
 add propolis_all-24h 124.222.229.150
 add propolis_all-24h 126.209.52.228
@@ -273,6 +262,7 @@ add propolis_all-24h 168.75.77.111
 add propolis_all-24h 168.144.59.162
 add propolis_all-24h 169.197.131.194
 add propolis_all-24h 170.62.161.68
+add propolis_all-24h 172.83.157.226
 add propolis_all-24h 172.245.135.89
 add propolis_all-24h 173.44.62.244
 add propolis_all-24h 173.249.206.137
@@ -309,7 +299,6 @@ add propolis_all-24h 185.240.102.240
 add propolis_all-24h 186.22.13.43
 add propolis_all-24h 187.212.13.181
 add propolis_all-24h 188.220.169.89
-add propolis_all-24h 188.239.74.180
 add propolis_all-24h 189.127.165.75
 add propolis_all-24h 190.13.244.102
 add propolis_all-24h 190.114.252.110
@@ -331,6 +320,7 @@ add propolis_all-24h 193.34.212.123
 add propolis_all-24h 193.46.255.86
 add propolis_all-24h 193.162.143.16
 add propolis_all-24h 194.28.86.169
+add propolis_all-24h 194.30.129.243
 add propolis_all-24h 194.146.191.79
 add propolis_all-24h 195.58.58.216
 add propolis_all-24h 195.178.110.204
@@ -348,7 +338,6 @@ add propolis_all-24h 202.59.9.152
 add propolis_all-24h 202.59.9.161
 add propolis_all-24h 202.59.10.225
 add propolis_all-24h 203.9.214.243
-add propolis_all-24h 203.132.60.203
 add propolis_all-24h 203.145.143.163
 add propolis_all-24h 206.189.65.113
 add propolis_all-24h 207.175.13.218
