@@ -1,4 +1,4 @@
-create propolis_all-30d hash:ip family inet hashsize 4096 maxelem 3160
+create propolis_all-30d hash:ip family inet hashsize 4096 maxelem 3158
 add propolis_all-30d 1.15.14.29
 add propolis_all-30d 1.27.232.43
 add propolis_all-30d 1.62.87.45
@@ -326,7 +326,6 @@ add propolis_all-30d 36.140.170.241
 add propolis_all-30d 36.227.165.246
 add propolis_all-30d 36.233.215.11
 add propolis_all-30d 36.255.33.193
-add propolis_all-30d 36.255.40.1
 add propolis_all-30d 36.255.40.149
 add propolis_all-30d 36.255.97.167
 add propolis_all-30d 36.255.254.221
@@ -683,6 +682,7 @@ add propolis_all-30d 61.55.1.125
 add propolis_all-30d 61.77.220.62
 add propolis_all-30d 61.91.98.88
 add propolis_all-30d 61.146.163.36
+add propolis_all-30d 61.146.235.54
 add propolis_all-30d 61.184.128.210
 add propolis_all-30d 61.221.207.130
 add propolis_all-30d 61.239.246.166
@@ -900,7 +900,6 @@ add propolis_all-30d 80.252.242.71
 add propolis_all-30d 81.20.125.102
 add propolis_all-30d 81.28.167.30
 add propolis_all-30d 81.40.21.225
-add propolis_all-30d 81.56.89.227
 add propolis_all-30d 81.56.223.64
 add propolis_all-30d 81.64.228.170
 add propolis_all-30d 81.101.197.226
@@ -948,7 +947,6 @@ add propolis_all-30d 84.46.252.81
 add propolis_all-30d 84.46.252.220
 add propolis_all-30d 84.54.70.122
 add propolis_all-30d 84.54.72.33
-add propolis_all-30d 84.54.72.91
 add propolis_all-30d 84.244.8.162
 add propolis_all-30d 84.247.172.66
 add propolis_all-30d 84.247.181.198
@@ -1822,7 +1820,6 @@ add propolis_all-30d 123.205.78.190
 add propolis_all-30d 123.212.9.122
 add propolis_all-30d 123.235.221.103
 add propolis_all-30d 123.253.32.214
-add propolis_all-30d 123.253.35.72
 add propolis_all-30d 123.255.202.214
 add propolis_all-30d 124.11.64.42
 add propolis_all-30d 124.29.194.182
@@ -2703,6 +2700,7 @@ add propolis_all-30d 192.3.233.220
 add propolis_all-30d 192.3.248.179
 add propolis_all-30d 192.3.248.215
 add propolis_all-30d 192.3.253.108
+add propolis_all-30d 192.6.161.51
 add propolis_all-30d 192.42.116.13
 add propolis_all-30d 192.42.116.14
 add propolis_all-30d 192.42.116.19
