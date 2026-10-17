@@ -1,5 +1,4 @@
 create propolis_standard hash:ip family inet hashsize 4096 maxelem 1024
-add propolis_standard 1.85.245.63
 add propolis_standard 2.26.60.228
 add propolis_standard 2.57.121.112
 add propolis_standard 2.59.135.157
@@ -86,7 +85,6 @@ add propolis_standard 87.236.176.91
 add propolis_standard 88.16.88.112
 add propolis_standard 88.119.170.179
 add propolis_standard 88.151.33.168
-add propolis_standard 91.121.39.52
 add propolis_standard 91.196.152.60
 add propolis_standard 91.239.233.228
 add propolis_standard 91.243.23.23
@@ -149,7 +147,6 @@ add propolis_standard 120.230.232.161
 add propolis_standard 121.66.245.110
 add propolis_standard 121.160.23.240
 add propolis_standard 122.116.253.96
-add propolis_standard 122.193.243.6
 add propolis_standard 123.143.165.243
 add propolis_standard 123.185.222.212
 add propolis_standard 123.253.32.214
@@ -184,7 +181,7 @@ add propolis_standard 157.254.18.71
 add propolis_standard 159.203.37.121
 add propolis_standard 160.25.166.55
 add propolis_standard 161.142.163.128
-add propolis_standard 165.140.117.204
+add propolis_standard 163.0.56.117
 add propolis_standard 165.227.12.149
 add propolis_standard 165.245.175.210
 add propolis_standard 165.245.198.32
@@ -240,9 +237,11 @@ add propolis_standard 192.3.248.179
 add propolis_standard 192.3.248.215
 add propolis_standard 192.3.253.108
 add propolis_standard 192.6.161.51
+add propolis_standard 192.119.101.52
 add propolis_standard 192.129.133.111
 add propolis_standard 192.129.224.145
 add propolis_standard 192.129.226.40
+add propolis_standard 192.129.243.19
 add propolis_standard 192.227.224.67
 add propolis_standard 193.32.162.36
 add propolis_standard 193.34.212.123
@@ -275,6 +274,8 @@ add propolis_standard 207.231.108.211
 add propolis_standard 211.75.94.175
 add propolis_standard 211.75.94.176
 add propolis_standard 212.164.38.60
+add propolis_standard 213.177.179.35
 add propolis_standard 213.209.159.66
 add propolis_standard 213.230.87.64
+add propolis_standard 218.93.190.170
 add propolis_standard 220.132.197.77
