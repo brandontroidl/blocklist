@@ -1,5 +1,4 @@
 create propolis_aggressive hash:ip family inet hashsize 4096 maxelem 1024
-add propolis_aggressive 2.39.152.171
 add propolis_aggressive 2.57.121.25
 add propolis_aggressive 2.57.122.238
 add propolis_aggressive 5.227.118.140
@@ -27,16 +26,15 @@ add propolis_aggressive 64.225.125.120
 add propolis_aggressive 64.227.90.185
 add propolis_aggressive 65.49.1.24
 add propolis_aggressive 65.49.1.52
+add propolis_aggressive 65.49.20.68
 add propolis_aggressive 66.116.196.142
 add propolis_aggressive 72.255.3.184
 add propolis_aggressive 72.255.18.192
 add propolis_aggressive 74.210.180.133
-add propolis_aggressive 77.90.185.33
 add propolis_aggressive 77.90.185.108
 add propolis_aggressive 77.239.124.162
 add propolis_aggressive 79.106.231.174
 add propolis_aggressive 81.200.222.235
-add propolis_aggressive 83.233.22.225
 add propolis_aggressive 85.11.167.7
 add propolis_aggressive 85.155.15.14
 add propolis_aggressive 89.21.67.145
@@ -66,7 +64,6 @@ add propolis_aggressive 103.173.7.129
 add propolis_aggressive 103.213.112.131
 add propolis_aggressive 109.105.209.7
 add propolis_aggressive 109.105.209.9
-add propolis_aggressive 112.46.214.171
 add propolis_aggressive 112.93.137.160
 add propolis_aggressive 112.163.135.25
 add propolis_aggressive 112.163.135.28
@@ -84,11 +81,11 @@ add propolis_aggressive 119.93.221.255
 add propolis_aggressive 121.159.71.249
 add propolis_aggressive 121.178.201.75
 add propolis_aggressive 121.227.31.13
+add propolis_aggressive 121.229.9.110
 add propolis_aggressive 122.96.31.130
 add propolis_aggressive 122.97.137.209
 add propolis_aggressive 122.155.132.40
 add propolis_aggressive 123.12.8.15
-add propolis_aggressive 123.139.198.33
 add propolis_aggressive 125.43.119.144
 add propolis_aggressive 125.46.135.131
 add propolis_aggressive 125.129.1.253
@@ -142,7 +139,6 @@ add propolis_aggressive 187.133.105.223
 add propolis_aggressive 187.212.33.78
 add propolis_aggressive 190.55.112.35
 add propolis_aggressive 190.196.253.16
-add propolis_aggressive 200.6.81.133
 add propolis_aggressive 202.47.50.235
 add propolis_aggressive 202.85.46.173
 add propolis_aggressive 203.218.203.93
@@ -161,6 +157,5 @@ add propolis_aggressive 221.157.244.54
 add propolis_aggressive 221.159.21.170
 add propolis_aggressive 222.104.76.94
 add propolis_aggressive 222.113.196.55
-add propolis_aggressive 222.140.85.132
 add propolis_aggressive 222.141.120.42
 add propolis_aggressive 223.75.168.59
