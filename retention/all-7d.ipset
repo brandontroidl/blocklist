@@ -1,4 +1,4 @@
-create propolis_all-7d hash:ip family inet hashsize 4096 maxelem 1520
+create propolis_all-7d hash:ip family inet hashsize 4096 maxelem 1518
 add propolis_all-7d 1.85.245.63
 add propolis_all-7d 1.92.109.53
 add propolis_all-7d 1.117.69.2
@@ -22,6 +22,7 @@ add propolis_all-7d 5.23.100.13
 add propolis_all-7d 5.89.112.21
 add propolis_all-7d 5.139.80.92
 add propolis_all-7d 5.143.4.32
+add propolis_all-7d 5.160.135.50
 add propolis_all-7d 5.180.19.218
 add propolis_all-7d 5.181.132.185
 add propolis_all-7d 5.181.219.218
@@ -222,7 +223,6 @@ add propolis_all-7d 41.96.243.148
 add propolis_all-7d 41.215.80.74
 add propolis_all-7d 41.216.179.51
 add propolis_all-7d 41.251.60.243
-add propolis_all-7d 42.96.36.154
 add propolis_all-7d 42.96.40.221
 add propolis_all-7d 42.98.247.101
 add propolis_all-7d 42.229.139.129
@@ -691,7 +691,6 @@ add propolis_all-7d 106.14.178.170
 add propolis_all-7d 106.14.238.41
 add propolis_all-7d 106.14.248.11
 add propolis_all-7d 106.52.249.253
-add propolis_all-7d 106.105.48.59
 add propolis_all-7d 106.124.93.238
 add propolis_all-7d 107.152.44.215
 add propolis_all-7d 107.155.48.46
@@ -1136,7 +1135,6 @@ add propolis_all-7d 173.249.209.86
 add propolis_all-7d 173.254.213.217
 add propolis_all-7d 175.6.100.215
 add propolis_all-7d 175.10.74.247
-add propolis_all-7d 175.30.168.190
 add propolis_all-7d 175.107.3.8
 add propolis_all-7d 175.107.3.28
 add propolis_all-7d 175.107.3.217
@@ -1184,7 +1182,6 @@ add propolis_all-7d 178.254.250.133
 add propolis_all-7d 179.9.208.119
 add propolis_all-7d 179.43.153.10
 add propolis_all-7d 179.155.83.222
-add propolis_all-7d 179.190.151.183
 add propolis_all-7d 179.254.164.65
 add propolis_all-7d 180.76.125.241
 add propolis_all-7d 180.76.137.24
@@ -1284,6 +1281,7 @@ add propolis_all-7d 188.253.3.251
 add propolis_all-7d 189.23.51.117
 add propolis_all-7d 189.50.142.78
 add propolis_all-7d 189.62.234.190
+add propolis_all-7d 189.127.165.75
 add propolis_all-7d 189.144.3.182
 add propolis_all-7d 189.150.196.23
 add propolis_all-7d 190.55.112.35
