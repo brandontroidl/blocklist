@@ -1,5 +1,5 @@
 ; Propolis RPZ - all-60d tier
-; Generated: 2026-10-21T00:00:00Z
+; Generated: 2026-10-21T01:00:00Z
 ; IPv6 entries omitted
 $TTL 300
 29.14.15.1.rpz-ip CNAME .
@@ -985,6 +985,7 @@ $TTL 300
 14.152.79.45.rpz-ip CNAME .
 166.252.79.45.rpz-ip CNAME .
 222.253.80.45.rpz-ip CNAME .
+103.65.82.45.rpz-ip CNAME .
 252.36.85.45.rpz-ip CNAME .
 63.144.87.45.rpz-ip CNAME .
 179.144.87.45.rpz-ip CNAME .
@@ -1504,7 +1505,6 @@ $TTL 300
 114.180.42.64.rpz-ip CNAME .
 217.188.43.64.rpz-ip CNAME .
 231.7.53.64.rpz-ip CNAME .
-142.156.62.64.rpz-ip CNAME .
 32.197.62.64.rpz-ip CNAME .
 162.74.72.64.rpz-ip CNAME .
 48.160.89.64.rpz-ip CNAME .
@@ -3621,7 +3621,6 @@ $TTL 300
 101.131.51.122.rpz-ip CNAME .
 170.176.51.122.rpz-ip CNAME .
 133.248.51.122.rpz-ip CNAME .
-50.23.54.122.rpz-ip CNAME .
 156.143.54.122.rpz-ip CNAME .
 130.31.96.122.rpz-ip CNAME .
 188.50.96.122.rpz-ip CNAME .
@@ -4017,12 +4016,10 @@ $TTL 300
 7.159.126.144.rpz-ip CNAME .
 190.201.126.144.rpz-ip CNAME .
 143.239.126.144.rpz-ip CNAME .
-132.28.229.144.rpz-ip CNAME .
 209.19.223.145.rpz-ip CNAME .
 87.72.239.145.rpz-ip CNAME .
 204.8.255.145.rpz-ip CNAME .
 149.78.0.146.rpz-ip CNAME .
-6.11.70.146.rpz-ip CNAME .
 101.199.120.146.rpz-ip CNAME .
 143.251.120.146.rpz-ip CNAME .
 215.14.148.146.rpz-ip CNAME .
@@ -4452,7 +4449,6 @@ $TTL 300
 252.149.212.169.rpz-ip CNAME .
 81.181.239.169.rpz-ip CNAME .
 62.42.51.170.rpz-ip CNAME .
-68.161.62.170.rpz-ip CNAME .
 75.171.64.170.rpz-ip CNAME .
 155.37.80.170.rpz-ip CNAME .
 222.154.81.170.rpz-ip CNAME .
@@ -5057,7 +5053,6 @@ $TTL 300
 109.95.58.184.rpz-ip CNAME .
 228.31.82.184.rpz-ip CNAME .
 194.247.105.184.rpz-ip CNAME .
-195.247.105.184.rpz-ip CNAME .
 95.28.147.184.rpz-ip CNAME .
 90.16.154.184.rpz-ip CNAME .
 229.171.164.184.rpz-ip CNAME .
