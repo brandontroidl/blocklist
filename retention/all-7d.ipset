@@ -1,4 +1,4 @@
-create propolis_all-7d hash:ip family inet hashsize 4096 maxelem 1445
+create propolis_all-7d hash:ip family inet hashsize 4096 maxelem 1442
 add propolis_all-7d 1.36.201.199
 add propolis_all-7d 1.85.245.63
 add propolis_all-7d 1.92.109.53
@@ -193,7 +193,6 @@ add propolis_all-7d 37.57.44.85
 add propolis_all-7d 37.79.37.82
 add propolis_all-7d 37.120.222.162
 add propolis_all-7d 37.221.113.13
-add propolis_all-7d 37.232.255.228
 add propolis_all-7d 38.9.96.215
 add propolis_all-7d 38.34.178.99
 add propolis_all-7d 38.47.189.61
@@ -398,6 +397,7 @@ add propolis_all-7d 66.132.172.198
 add propolis_all-7d 66.132.172.200
 add propolis_all-7d 66.132.186.206
 add propolis_all-7d 66.132.195.40
+add propolis_all-7d 66.240.236.119
 add propolis_all-7d 67.6.18.155
 add propolis_all-7d 67.52.95.38
 add propolis_all-7d 67.200.108.14
@@ -524,8 +524,6 @@ add propolis_all-7d 93.123.16.229
 add propolis_all-7d 93.171.214.236
 add propolis_all-7d 93.174.93.12
 add propolis_all-7d 94.26.104.43
-add propolis_all-7d 94.154.43.43
-add propolis_all-7d 94.154.43.53
 add propolis_all-7d 94.154.43.63
 add propolis_all-7d 94.154.43.196
 add propolis_all-7d 94.154.43.223
@@ -1071,7 +1069,6 @@ add propolis_all-7d 165.227.57.193
 add propolis_all-7d 165.227.231.104
 add propolis_all-7d 165.232.119.138
 add propolis_all-7d 165.245.174.113
-add propolis_all-7d 165.245.175.210
 add propolis_all-7d 167.94.146.51
 add propolis_all-7d 167.94.146.63
 add propolis_all-7d 167.172.18.255
@@ -1234,6 +1231,7 @@ add propolis_all-7d 187.212.33.78
 add propolis_all-7d 187.216.224.85
 add propolis_all-7d 187.236.14.206
 add propolis_all-7d 188.40.192.252
+add propolis_all-7d 188.40.195.133
 add propolis_all-7d 188.40.195.155
 add propolis_all-7d 188.71.232.163
 add propolis_all-7d 188.92.131.62
@@ -1317,7 +1315,6 @@ add propolis_all-7d 196.189.198.201
 add propolis_all-7d 196.218.110.114
 add propolis_all-7d 196.221.205.156
 add propolis_all-7d 196.251.121.140
-add propolis_all-7d 197.5.192.130
 add propolis_all-7d 197.44.53.74
 add propolis_all-7d 197.210.143.182
 add propolis_all-7d 197.248.12.28
