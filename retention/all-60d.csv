@@ -42,7 +42,6 @@ ip,first_seen,last_seen,categories,events,signals
 5.23.100.13,2026-10-16T10:00:00Z,2026-10-16T10:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 5.34.124.59,2026-09-29T18:00:00Z,2026-09-29T18:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 5.42.39.226,2026-10-20T03:00:00Z,2026-10-20T03:00:00Z,1,9,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-5.44.172.101,2026-09-28T14:00:00Z,2026-09-28T14:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 5.78.42.98,2026-10-12T16:00:00Z,2026-10-12T16:00:00Z,1,17,honeypot_command_exec;honeypot_connection;honeypot_login_attempt;honeypot_malware_upload;honeypot_session_end
 5.89.112.21,2026-10-19T13:00:00Z,2026-10-19T13:00:00Z,1,35,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 5.107.142.106,2026-09-29T05:00:00Z,2026-09-29T05:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
@@ -810,7 +809,6 @@ ip,first_seen,last_seen,categories,events,signals
 72.255.3.211,2026-09-29T16:00:00Z,2026-09-29T16:00:00Z,1,425,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 72.255.18.192,2026-10-10T07:00:00Z,2026-10-20T07:00:00Z,1,1022,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
 72.255.26.35,2026-10-02T15:00:00Z,2026-10-02T16:00:00Z,1,391,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-72.255.26.187,2026-09-28T15:00:00Z,2026-09-28T15:00:00Z,1,425,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 72.255.32.10,2026-10-11T07:00:00Z,2026-10-11T07:00:00Z,1,14,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
 72.255.33.53,2026-10-09T07:00:00Z,2026-10-09T14:00:00Z,1,38614,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
 72.255.33.109,2026-10-15T02:00:00Z,2026-10-15T11:00:00Z,1,342,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
@@ -1588,7 +1586,6 @@ ip,first_seen,last_seen,categories,events,signals
 119.93.221.255,2026-10-19T06:00:00Z,2026-10-23T18:00:00Z,1,60,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 119.96.157.188,2026-09-21T04:00:00Z,2026-10-23T21:00:00Z,1,28,honeypot_command_exec;honeypot_connection;honeypot_login_attempt;honeypot_session_end
 119.96.159.237,2026-10-01T07:00:00Z,2026-10-02T19:00:00Z,1,14,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-119.96.173.169,2026-09-28T15:00:00Z,2026-09-28T15:00:00Z,1,7,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 119.99.251.186,2026-10-13T08:00:00Z,2026-10-13T16:00:00Z,1,94,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 119.108.89.80,2026-10-14T00:00:00Z,2026-10-14T00:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 119.145.29.182,2026-10-14T04:00:00Z,2026-10-14T04:00:00Z,1,228,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
@@ -2485,9 +2482,7 @@ ip,first_seen,last_seen,categories,events,signals
 187.212.17.164,2026-10-07T11:00:00Z,2026-10-08T23:00:00Z,1,24,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
 187.212.33.78,2026-10-14T10:00:00Z,2026-10-18T21:00:00Z,1,47,honeypot_command_exec;honeypot_connection;honeypot_login_attempt;honeypot_session_end
 187.216.224.85,2026-10-04T23:00:00Z,2026-10-15T12:00:00Z,1,48,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-187.224.65.71,2026-09-28T15:00:00Z,2026-09-28T15:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 187.236.14.206,2026-10-18T09:00:00Z,2026-10-18T09:00:00Z,1,30,honeypot_command_exec;honeypot_connection;honeypot_login_attempt
-188.18.86.4,2026-09-28T15:00:00Z,2026-09-28T15:00:00Z,1,2,honeypot_connection;honeypot_login_attempt
 188.26.218.83,2026-10-01T02:00:00Z,2026-10-01T02:00:00Z,1,263,honeypot_command_exec;honeypot_connection;honeypot_file_download;honeypot_login_attempt
 188.40.192.252,2026-10-08T11:00:00Z,2026-10-23T22:00:00Z,1,816,honeypot_connection;honeypot_login_attempt
 188.40.195.133,2026-10-09T10:00:00Z,2026-10-23T13:00:00Z,1,88,honeypot_connection;honeypot_login_attempt
